@@ -1,1 +1,1 @@
-# Taller-yolo-deteccion-casas-Juan-D-Vargas
+# Taller-Clase-Juan-D-Vargas
